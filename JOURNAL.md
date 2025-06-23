@@ -12,6 +12,11 @@ Okay, so hello world! I had this idea a while ago, but since I'm such a noob wit
 # June 23rd
 ## 10am -ish
 Quick update before I get started, no I haven't worked on this since my last update :heavysob:. I think what I'm gonna do is just start throwing things into KiCad and playing around. So...off I go to open KiCad.
+
 ## 10:16am
 I started throwing things into KiCad and realized that idk what I'm doing, but we're just gonna make it work. I still need to add an mcu.
 ![Screenshot 2025-06-23 at 10 16 16 AM](https://github.com/user-attachments/assets/0b7b0d5c-3a08-456a-86c9-ac9ca64d54b2)
+
+## 10:20am
+Added an mcu...im just gonna go with a seeed xiao for now since that's what I used for my hackpad. something is happening here, I just don't know what yet.
+![Screenshot 2025-06-23 at 10 20 11 AM](https://github.com/user-attachments/assets/3503e9ff-e3fd-45d8-970c-7ac18a462d76)
