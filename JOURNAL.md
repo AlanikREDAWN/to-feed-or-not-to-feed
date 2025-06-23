@@ -18,5 +18,5 @@ I started throwing things into KiCad and realized that idk what I'm doing, but w
 ![Screenshot 2025-06-23 at 10 16 16 AM](https://github.com/user-attachments/assets/0b7b0d5c-3a08-456a-86c9-ac9ca64d54b2)
 
 ## 10:20am
-Added an mcu...im just gonna go with a seeed xiao for now since that's what I used for my hackpad. something is happening here, I just don't know what yet.
+Added an mcu...im just gonna go with a seeed xiao for now since that's what I used for my hackpad. something is happening here, I just don't know what yet. gonna take a break to work on something else now, so it was a pretty short session, about 20mins. I think I'm just gonna do a bunch of small sessions that add up.
 ![Screenshot 2025-06-23 at 10 20 11 AM](https://github.com/user-attachments/assets/3503e9ff-e3fd-45d8-970c-7ac18a462d76)
