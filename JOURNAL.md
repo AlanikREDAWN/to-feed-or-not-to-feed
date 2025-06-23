@@ -12,3 +12,6 @@ Okay, so hello world! I had this idea a while ago, but since I'm such a noob wit
 # June 23rd
 ## 10am -ish
 Quick update before I get started, no I haven't worked on this since my last update :heavysob:. I think what I'm gonna do is just start throwing things into KiCad and playing around. So...off I go to open KiCad.
+## 10:16am
+I started throwing things into KiCad and realized that idk what I'm doing, but we're just gonna make it work. I still need to add an mcu.
+![Screenshot 2025-06-23 at 10 16 16 AM](https://github.com/user-attachments/assets/0b7b0d5c-3a08-456a-86c9-ac9ca64d54b2)
